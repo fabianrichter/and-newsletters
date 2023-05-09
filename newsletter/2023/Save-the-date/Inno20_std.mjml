@@ -1,0 +1,135 @@
+<mjml>
+  <mj-head>
+    <mj-title>Automation Network Dresden - 16th innovation forum for automation</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500" />
+    <mj-attributes>
+      <mj-all />
+      <mj-text font-family="sans-serif" />
+      <mj-section padding-bottom="0px" padding-top="0px" padding-left="40px" padding-right="40px" background-color="white" />
+      <mj-text line-height="22px" font-size="13px" />
+      <mj-button background-color="#0090d4" border-radius="0" />
+    </mj-attributes>
+    <mj-style>
+      h2 {
+        font-size: 18px;
+        line-height: 26px
+      }
+
+      a {
+        color: #0090d4;
+        text-decoration: none;
+        font-weight: bold;
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#f4f4f4">
+    <mj-section padding-right="0px" background-color="#f4f4f4">
+      <mj-column>
+        <mj-text font-size="11px" align="right" padding-right="0px" padding-left="0px" padding-top="0px" padding-bottom="0px">
+          Not rendering correctly? <a href="{email_url}">View in browser.</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="white" padding-left="0px" padding-right="0px">
+      <mj-column>
+        <mj-image padding-left="0px" padding-top="0px" padding-right="0px" href="https://www.innovation-forum-automation.com/" src="https://www.innovation-forum-automation.com/files/2022/10/if_mailing_20_years.png" alt="AND Logo" align="right" border="none"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="20px" font-weight="bold" padding-top="40px">
+          Dear {name} {surname},
+        </mj-text>
+        <mj-text>
+          Here's the good news you've been waiting for! The <a href="https://www.innovation-forum-automation.com/">20<sup>th</sup> Innovation Forum for Automation</a> is just around the corner! On January 26 and 27, 2023 we will meet again in Dresden!
+        </mj-text>
+        <mj-text>
+          <b>This year’s event will be special in many ways:</b>
+          <ul>
+            <li>We will celebrate 20 years of Innovation Forum for Automation.</li>
+            <li>We will honor the past and look forward with anticipation to the future of the Innovation Forum for Automation.</li>
+            <li>We’ll have to say goodbye and welcome at the same time.</li>
+          </ul>
+        </mj-text>
+        <mj-text>
+          The Automation Network Dresden team is working to make this Innovation Forum even more memorable. Updates will be coming your way soon with announcements of our presenters and more detailed information on the agenda.
+        </mj-text>
+        <mj-text>
+          <b>Mark your calendar now for the 20th Annual Automation Innovation Forum on January 26 and 27, 2023.</b>
+        </mj-text>
+        <<mj-image
+           src="https://www.innovation-forum-automation.com/files/2022/10/if_mailing_save_the_date.png"
+           alt="save the date! January 26 and 27, 2023"
+           width="480px"
+           href="https://www.innovation-forum-automation.com/files/2022/10/20th-innovation-form-for-automation.ics"
+           padding-top="20px"
+           padding-bottom="20px" />
+        <mj-text>
+          If you have any questions or would like information on becoming an event sponsor, please feel free to contact us. Even better, join the Automation Network Dresden members at <b>SEMICON Europa Nov 15-18, 2022</b>, in Munich and we can talk about it there! Please contact us for free visitor tickets for SEMICON Europa 2022 (<a href="mailto:info@innovation-forum-automation.com">info@innovation-forum-automation.com</a>).
+        </mj-text>
+        <mj-text>
+          Best regards on behalf of the CEOs of the AND member companies. 
+        </mj-text>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text align="center"><a href="https://www.fabmatics.com/" style="color: #0090d4; text-decoration: none;"><b>Fabmatics</b></a></br>Dr. Roland Giesen</br>Dr. Andreas Purath</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text align="center"><a href="https://www.kontron-ais.com/" style="color: #0090d4; text-decoration: none;"><b>Kontron AIS</b></a></br>Dirk Sauer</br>Michael Jacob</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text align="center"><a href="https://www.systema.com/" style="color: #0090d4; text-decoration: none;"><b>SYSTEMA</b></a></br>Manfred Austen</br>Dr. Ulf Martin</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text align="center"><a href="https://www.xenon-automation.com/" style="color: #0090d4; text-decoration: none;"><b>XENON</b></a></br>Tobias Reißmann</br>Dr. Hartmut Freitag</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="10px">
+          The event will be initiated by the Automation Network Dresden (AND) and all its member companies Kontron AIS, Fabmatics, SYSTEMA and XENON.
+          The four companies have been successfully working together on automation projects in the high-tech industry for more than 20 years.
+          Commonly, we are shaping progress towards industry 4.0 and setting standards with regard to current automation trends.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+
+    <mj-section padding-top="20px" padding-bottom="0" padding-left="0" padding-right="0">
+      <mj-column>
+        <mj-divider padding="0" border-width="18px" border-color="#ffed00"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0090d4" padding-top="20px">
+      <mj-column width="40px">
+        <mj-image padding="0" href="https://www.linkedin.com/company/automation-network-dresden" src="https://www.innovation-forum-automation.com/files/2022/05/linkedin.png" width="30px" height="30px" alt="LinkedIn"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0090d4">
+      <mj-column>
+        <mj-text font-size="11px" align="center" color="white" line-height="15px">
+          Automation Network Dresden<br />
+          Manfred-von-Ardenne-Ring 6<br />
+          01099 Dresden<br /><br />
+          <a href="https://www.innovation-forum-automation.com/" style="color: white;">www.innovation-forum-automation.com</a>
+          <br />
+          <a href="mailto:info@innovation-forum-automation.com" style="font-weight: bold;color: black; text-decoration: none;">info@innovation-forum-automation.com</a>
+          <br /><br />
+          <a style="font-weight: bold; color: white; text-decoration: none;" href="https://www.innovation-forum-automation.com/privacy/">Privacy</a>
+        </mj-text>
+        <mj-text font-size="11px" align="center" color="white" line-height="15px">
+          <a href="{profile_url}" style="color:#fff">change subscription</a><br><a href="{unsubscription_url}" style="color:#fff">unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

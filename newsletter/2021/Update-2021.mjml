@@ -1,0 +1,156 @@
+<mjml>
+  <mj-head>
+    <mj-title>Automation Network Dresden - 16th innovation forum for automation</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500" />
+    <mj-attributes>
+      <mj-all/>
+      <mj-text font-family="typestar_normalregular,sans-serif"/>
+      <mj-section padding-bottom="0px" padding-top="0px" padding-left="40px" padding-right="40px" background-color="white"/>
+      <mj-text line-height="22px" font-size="13px"/>
+      <mj-button border-radius="0px" align="left" color="black" font-size="13px" font-family="typestar_normalregular,sans-serif" text-align="left" line-height="22px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#f4f4f4">
+      <mj-section background-color="white" padding-top="20px">
+        <mj-column>
+          <mj-image src="https://mailing.and-innovation.de/wp-content/uploads/2020/12/Logo_18th_IF2021_Digital_Event_Series.png" alt="AND Logo" align="right" border="none" width="250px"></mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text font-size="20px" font-weight="bold">
+            Dear {name} {surname},
+          </mj-text>
+          <mj-text>
+            Over the past 17 years, the <a href="https://dresden.and-innovation.de/" style="color: #0090d4; text-decoration: none;"><b>Innovation Forum for Automation</b></a> has earned a reputation of providing an excellent opportunity for networking and personal exchange between industry experts. We will continue on this path, however, the current situation requires a new approach: a completely digital event. Driven by increasing demand for automation our next steps are dedicated to creating an even more engaging virtual forum.
+          </mj-text>
+          <mj-text>
+            <a href="https://dresden.and-innovation.de/" style="color: #0090d4; text-decoration: none;"><b>The Innovation Forum for Automation</b></a><b> as you know it, will be transformed into a series of events in the first four month of 2021.</b> Each of the 4 partner companies of the Automation Network Dresden (AND - <a href="https://www.fabmatics.com/" style="color: #0090d4; text-decoration: none;"><b>Fabmatics</b></a>, <a href="https://kontron-ais.com/" style="color: #0090d4; text-decoration: none;"><b>Kontron AIS</b></a>, <a href="https://www.systema.com/" style="color: #0090d4; text-decoration: none;"><b>SYSTEMA</b></a> and <a href="https://www.xenon-automation.com/" style="color: #0090d4; text-decoration: none;"><b>XENON</b></a>) will host one event, arranging it individually from the agenda up to the technical organization. The link tying it all together is the mission the AND is committed to: Keeping the community connected and up-to-date with new automation trends across high-tech industries and innovative projects.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+      <mj-column>
+      <mj-image src="https://mailing.and-innovation.de/wp-content/uploads/2020/12/DSC_9186.jpg"></mj-image>
+      </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text>
+            <b>And what do you get out of it? A digital AND session every last Thursday of the month from January to April 2021.</b> Each session will be packed with news from the world of automation, exciting insights into the hottest trend topics, and input, input, input.           
+          </mj-text>
+          <mj-text>
+            You don’t want to miss this! Save these dates in your calendar: 
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column width="70px">
+          <mj-image align="center" padding-right="5px" padding-left="5px" src="https://dresden.and-innovation.de/upload/icons/calendar.png"></mj-image>
+        </mj-column>
+        <mj-column width="410px">
+          <mj-text>
+            <b>SYSTEMA: January 28, 2021, 9am-12pm CET</b><br>
+            <b>Fabmatics: February 25, 2021</b><br>
+            <b>XENON: March 25, 2021</b><br>
+            <b>Kontron AIS: April 29, 2021</b>
+          </mj-text>
+          
+        </mj-column>
+      </mj-section>
+      <mj-section>
+      <mj-column>
+          <mj-text>
+            <a href="https://mailing.and-innovation.de/wp-content/uploads/2020/12/2021-digital-event-series-01.ics" style="color: #0090d4; text-decoration: none;"><b>SYSTEMA will start with a much discussed topic:  <span style="color: #000">Datafication and Automation: The new Normal for Semiconductor Manufacturing</span></b></a>
+          </mj-text>
+          <mj-text>
+            <a href="https://mailing.and-innovation.de/wp-content/uploads/2020/12/2021-digital-event-series-01.ics" style="color: #0090d4; text-decoration: none;"><b>Reserve January 28, 2021, 9am-12pm CET in your calendar!</b></a> Invitations with detailed information are coming your way soon. 
+          </mj-text>
+          <mj-text>
+            Best regards, <br/>
+            Managing Directors of the AND companies
+          </mj-text>
+          
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+        <mj-text align="center"><a href="https://www.fabmatics.com/" style="color: #0090d4; text-decoration: none;"><b>Fabmatics</b></a></br>Dr. Roland Giesen</br>Dr. Andreas Purath</mj-text>
+        </mj-column>
+        <mj-column>
+        <mj-text align="center"><a href="https://www.kontron-ais.com/" style="color: #0090d4; text-decoration: none;"><b>Kontron AIS</b></a></br>Dirk Sauer</br>Michael Jacob</mj-text>
+        </mj-column>
+        </mj-section>
+        <mj-section>
+        <mj-column>
+        <mj-text align="center"><a href="https://www.systema.com/" style="color: #0090d4; text-decoration: none;"><b>SYSTEMA</b></a></br>Manfred Austen</br>Ulf Martin</mj-text>
+        </mj-column>
+        <mj-column>
+        <mj-text align="center"><a href="https://www.xenon-automation.com/" style="color: #0090d4; text-decoration: none;"><b>XENON</b></a></br>Tobias Reißmann</br>Dr. Hartmut Freitag</mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          
+          <mj-text font-size="10px">
+            The event will be initiated by the Automation Network Dresden (AND) and all its member companies Kontron AIS, Fabmatics, SYSTEMA and XENON.
+The four companies have been successfully working together on automation projects in the high-tech industry for more than 20 years.
+Commonly, we are shaping progress towards industry 4.0 and setting standards with regard to current automation trends.
+
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+
+
+
+      <mj-section  padding-top="20px" padding-bottom="0" padding-left="0" padding-right="0">
+        <mj-column>
+          <mj-divider padding="0" border-width="20px" border-color="#ffed00"></mj-divider>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-left="0" padding-right="0" padding-top="0" background-color="#0090d4">
+        <mj-column>
+          <mj-image width="300px" align="center" padding-top="20px" src="https://www.and-innovation.de/templates/claim.png" alt="...we innovate manufacturing."></mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#0090d4">
+        <mj-column width="40px">
+          <mj-image padding="0" href="https://www.facebook.com/AND4innovation/" src="http://www.and-innovation.de/templates/facebook.png" width="30px" height="30px" alt="Facebook"></mj-image>
+        </mj-column>
+        <mj-column width="40px">
+          <mj-image padding="0" href="https://www.linkedin.com/company/automation-network-dresden" src="https://www.and-innovation.de/templates/linkedin.png" width="30px" height="30px" alt="LinkedIn"></mj-image>
+        </mj-column>
+        <mj-column width="40px">
+          <mj-image padding="0" href="https://twitter.com/AND4innovation" src="http://www.and-innovation.de/templates/twitter.png" width="30px" height="30px" alt="Twitter"></mj-image>
+        </mj-column>
+        <mj-column width="40px">
+          <mj-image padding="0" href="https://www.youtube.com/channel/UC0Oddkftafg--QwGjBE9M3Q" src="https://www.and-innovation.de/upload/social/youtube.png" width="30px" height="30px" alt="YouTube"></mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#0090d4">
+        <mj-column>
+          <mj-text font-size="11px" align="center" color="white" line-height="15px">
+            Automation Network Dresden<br/>
+            Manfred-von-Ardenne-Ring 6<br/>
+            01099 Dresden<br/><br/>
+            <a href="https://www.and-innovation.de" style="color: white;">www.and-innovation.de</a>
+            <br/>
+            <a href="mailto:info@and-innovation.de" style="font-weight: bold;color: black; text-decoration: none;">forum@and-innovation.de</a>
+            <br/><br/>
+            <a style="font-weight: bold; color: white; text-decoration: none;" href="https://www.and-innovation.de/privacy/data-security.html">Privacy</a>
+          </mj-text>
+          <mj-text font-size="11px" align="center" color="white" line-height="15px">
+            <a href="{profile_url}" style="color:#fff">change subscription</a><br><a href="{unsubscription_url}" style="color:#fff">unsubscribe</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>

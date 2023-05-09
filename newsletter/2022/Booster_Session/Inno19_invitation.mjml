@@ -1,0 +1,151 @@
+<mjml>
+  <mj-head>
+    <mj-title>Automation Network Dresden – innovation forum for automation: booster session</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500" />
+    <mj-attributes>
+      <mj-all />
+      <mj-text font-family="typestar_normalregular,sans-serif" />
+      <mj-section padding-bottom="0px" padding-top="0px" padding-left="40px" padding-right="40px" background-color="white" />
+      <mj-text line-height="22px" font-size="13px" />
+      <mj-button background-color="#0090d4" border-radius="0" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#f4f4f4">
+    <mj-section background-color="white" padding-top="0px" padding-left="0px" padding-right="0px" padding-bottom="40px" >
+      <mj-column>
+        <mj-image padding-left="0px" padding-right="0px" padding-top="0px" src="https://mailing.and-innovation.de/wp-content/uploads/2022/01/Innoforum_Booster_header.jpg" alt="AND Logo" align="right" border="none" width="600px"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="20px" font-weight="bold">
+          Dear {name} {surname},
+        </mj-text>
+        <mj-text>
+          <b>New year, same passion! 2022 has just started and we all know what time of the year it is?! Exactly! Innovation Forum Time!</b>
+        </mj-text>
+        <mj-text>
+          As we already announced in autumn 2021 we want to meet in person again. Therefore we shifted our 2-day-conferene <a href="https://dresden.and-innovation.de/" style="color: #0090d4; text-decoration: none;"><b>19th Innovation Forum for Automation</b></a> to June 30 – July 1 this year.
+        </mj-text>
+         <mj-text>
+          <b>To shorten the dry spell until the next Innovation Forum we invite you to a short but intense free of charge online Booster-Session on February 10:</b>
+        </mj-text>
+        <mj-text>
+          We will take you on a journey through the wide spectrum of the manufacturing automation landscape. From a deep insight of an expert in the semiconductor market, to new perspectives on manufacturing automation in the production of industrial electrolyzers, leading us all the way through to a very intimate look into the story of digitalization of a leading semiconductor manufacturer.
+        </mj-text>
+        <mj-text>
+          <b>Let’s boost your automation efforts with helpful inputs and an inspiring exchange.</b>
+          <b>You can look forward to presentations from:<br />
+        </mj-text>
+        <mj-table>
+          <tr>
+            <td width="60px" style="vertical-align: top">10:10</td><td><b>Presentation on: The semiconductor value chain: Market outlook </b>(Speaker to be announced soon)</td>
+          </tr>
+          <tr>
+            <td width="60px" style="vertical-align: top">10:30</td><td>Ulrike Sampermans, Vice President Digital Transformation, X-FAB Group: <b>Digital Transformation - the X-Fab Journey</b></td>
+          </tr>
+          <tr>
+            <td width="60px" style="vertical-align: top">10:50</td><td><b>Presentation on: The semiconductor value chain: Market outlook </b>(Speaker to be announced soon)</td>
+          </tr>
+          <tr>
+            <td width="60px" style="vertical-align: top">11:10</td><td><b>Presentation on: The semiconductor value chain: Market outlook </b>(Speaker to be announced soon)</td>
+          </tr>
+        </mj-table>
+        <mj-text>
+          <ol>
+            <li><b>Presentation on: The semiconductor value chain: Market outlook </b>(Speaker to be announced soon)</li>
+            <li>Ulrike Sampermans, Vice President Digital Transformation, X-FAB Group: <b>Digital Transformation - the X-Fab Journey</b></li>
+            <li>Hergen Thore Wolf, Director Product Management, Sunfire: <b>Electrolyzers for hydrogen generation: From manufactory to series production</b></li>
+            <li>Expert panel with the speakers and managing directors of AND member companies</li>
+          </ol>
+        </mj-text>
+        <mj-text>
+          <b>You don’t want to miss this! Register now for Innovation Forum for Automation – Booster Session.</b>
+        </mj-text>
+
+        <mj-text>
+          <b>When: February 10, 2022; 10am – 12pm CET<br />
+            Where: This event will be held online and it is free of charge.</b>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-button inner-padding="10px 25px" href="#">
+          <b>Register Now</b>
+        </mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-button background-color="#fff" color="#0090d4" border="2px solid #0090d4" inner-padding="8px 23px" href="https://mailing.and-innovation.de/wp-content/uploads/2022/01/innovationforum_booster2022.ics">
+          <b>Save to your Calendar</b>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          If you have any questions, please feel free to <a href="mailto:info@and-innovation.de" style="color: #0090d4; text-decoration: none;"><b>contact us</b></a>.
+        </mj-text>
+        <mj-text>
+          Best regards on behalf of the CEOs of the AND member companies.
+        </mj-text>
+        <mj-text font-size="10px">
+          The event will be initiated by the Automation Network Dresden (AND) and all its member companies Kontron AIS, Fabmatics, SYSTEMA and XENON.
+          The four companies have been successfully working together on automation projects in the high-tech industry for more than 20 years.
+          Commonly, we are shaping progress towards industry 4.0 and setting standards with regard to current automation trends.
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+
+
+    <mj-section padding-top="20px" padding-bottom="0" padding-left="0" padding-right="0">
+      <mj-column>
+        <mj-divider padding="0" border-width="20px" border-color="#ffed00"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-left="0" padding-right="0" padding-top="0" background-color="#0090d4">
+      <mj-column>
+        <mj-image width="300px" align="center" padding-top="20px" src="https://www.and-innovation.de/templates/claim.png" alt="...we innovate manufacturing."></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0090d4">
+      <mj-column width="40px">
+        <mj-image padding="0" href="https://www.facebook.com/AND4innovation/" src="http://www.and-innovation.de/templates/facebook.png" width="30px" height="30px" alt="Facebook"></mj-image>
+      </mj-column>
+      <mj-column width="40px">
+        <mj-image padding="0" href="https://www.linkedin.com/company/automation-network-dresden" src="https://www.and-innovation.de/templates/linkedin.png" width="30px" height="30px" alt="LinkedIn"></mj-image>
+      </mj-column>
+      <mj-column width="40px">
+        <mj-image padding="0" href="https://twitter.com/AND4innovation" src="http://www.and-innovation.de/templates/twitter.png" width="30px" height="30px" alt="Twitter"></mj-image>
+      </mj-column>
+      <mj-column width="40px">
+        <mj-image padding="0" href="https://www.youtube.com/channel/UC0Oddkftafg--QwGjBE9M3Q" src="https://www.and-innovation.de/upload/social/youtube.png" width="30px" height="30px" alt="YouTube"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0090d4">
+      <mj-column>
+        <mj-text font-size="11px" align="center" color="white" line-height="15px">
+          Automation Network Dresden<br />
+          Manfred-von-Ardenne-Ring 6<br />
+          01099 Dresden<br /><br />
+          <a href="https://www.and-innovation.de" style="color: white;">www.and-innovation.de</a>
+          <br />
+          <a href="mailto:info@and-innovation.de" style="font-weight: bold;color: black; text-decoration: none;">forum@and-innovation.de</a>
+          <br /><br />
+          <a style="font-weight: bold; color: white; text-decoration: none;" href="https://www.and-innovation.de/privacy/data-security.html">Privacy</a>
+        </mj-text>
+        <mj-text font-size="11px" align="center" color="white" line-height="15px">
+          <a href="{profile_url}" style="color:#fff">change subscription</a><br><a href="{unsubscription_url}" style="color:#fff">unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

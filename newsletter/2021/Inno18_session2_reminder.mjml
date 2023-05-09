@@ -1,0 +1,120 @@
+<mjml>
+  <mj-head>
+    <mj-title>Automation Network Dresden - 16th innovation forum for automation</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500" />
+    <mj-attributes>
+      <mj-all />
+      <mj-text font-family="typestar_normalregular,sans-serif" />
+      <mj-section padding-bottom="0px" padding-top="0px" padding-left="40px" padding-right="40px" background-color="white" />
+      <mj-text line-height="22px" font-size="13px" />
+      <mj-button background-color="#0090d4" border-radius="0" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#f4f4f4">
+    <mj-section background-color="white" padding-top="20px">
+      <mj-column>
+        <mj-image src="https://mailing.and-innovation.de/wp-content/uploads/2020/12/Logo_18th_IF2021_Digital_Event_Series.png" alt="AND Logo" align="right" border="none" width="250px"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="20px" font-weight="bold">
+          Dear {name} {surname},
+        </mj-text>
+        <mj-text>
+          Have you already saved your seat for the second <b>#InnovationThursday</b> of this years <b><a href="https://dresden.and-innovation.de/" style="color: #0090d4; text-decoration: none;">18th Innovations Forum for Automation</a></b>? With the current overproportional increase in demand for microchips from the electronics and automotive industry, our second webinar addresses a topic that comes at just the right time:
+        </mj-text>
+        <mj-text font-size="22px" line-height="30px">
+          <b>Forever Young: Automation Makeover Rejuvenates Golden Age Fabs</b>
+        </mj-text>
+        <mj-text font-weight="bold">Free Online Event | February 25, 2021 | 3 – 6 pm CET</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://mailing.and-innovation.de/wp-content/uploads/2021/02/Webinar-Teaserbild-FMX.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          The “Golden Age Fabs” are the backbone of the semiconductor industry and deserve a lot of credit. But what can you do to take a mature fab to the next level and optimize yields, output, cycle times, operating costs and flexibility?
+        </mj-text>
+        <mj-text>
+          Join our webinar to learn more about the greatest potentials for semiconductor factories to effectively address the rising challenges and demands in manufacturing! Our guest speakers from <b>BOSCH, Nexperia, Cohu</b> and <b>SYSTEMA</b> will show you the automation path of very successful Golden Age Fabs.
+        </mj-text>
+        <mj-text>
+          <b><a href="https://www.fabmatics.com/events-2/forever-young-automation-makeover-rejuvenates-golden-age-fabs/" style="color: #0090d4; text-decoration: none;">Please check out the full agenda on our website</a></b> <br/>or simply click the link below to:
+        </mj-text>
+        <mj-button href="https://www.bigmarker.com/fabmatics-gmbh/Automating-Golden-Age-Fabs?utm_bmcr_source=Reminder">
+          <b>REGISTER NOW</b>
+        </mj-button>
+        <mj-text>
+          Please register <b>before February 24, 2021.</b><br />
+          We are looking forward to welcoming you again soon!
+        </mj-text>
+        <mj-text>
+          Best Regards,<br />
+          Kathrin Kammer, Fabmatics<br />
+          on behalf of the Automation Network Dresden
+        </mj-text>
+        <mj-text font-size="10px">
+          The event will be initiated by the Automation Network Dresden (AND) and all its member companies Kontron AIS, Fabmatics, SYSTEMA and XENON.
+          The four companies have been successfully working together on automation projects in the high-tech industry for more than 20 years.
+          Commonly, we are shaping progress towards industry 4.0 and setting standards with regard to current automation trends.
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+
+
+    <mj-section padding-top="20px" padding-bottom="0" padding-left="0" padding-right="0">
+      <mj-column>
+        <mj-divider padding="0" border-width="20px" border-color="#ffed00"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-left="0" padding-right="0" padding-top="0" background-color="#0090d4">
+      <mj-column>
+        <mj-image width="300px" align="center" padding-top="20px" src="https://www.and-innovation.de/templates/claim.png" alt="...we innovate manufacturing."></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0090d4">
+      <mj-column width="40px">
+        <mj-image padding="0" href="https://www.facebook.com/AND4innovation/" src="http://www.and-innovation.de/templates/facebook.png" width="30px" height="30px" alt="Facebook"></mj-image>
+      </mj-column>
+      <mj-column width="40px">
+        <mj-image padding="0" href="https://www.linkedin.com/company/automation-network-dresden" src="https://www.and-innovation.de/templates/linkedin.png" width="30px" height="30px" alt="LinkedIn"></mj-image>
+      </mj-column>
+      <mj-column width="40px">
+        <mj-image padding="0" href="https://twitter.com/AND4innovation" src="http://www.and-innovation.de/templates/twitter.png" width="30px" height="30px" alt="Twitter"></mj-image>
+      </mj-column>
+      <mj-column width="40px">
+        <mj-image padding="0" href="https://www.youtube.com/channel/UC0Oddkftafg--QwGjBE9M3Q" src="https://www.and-innovation.de/upload/social/youtube.png" width="30px" height="30px" alt="YouTube"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0090d4">
+      <mj-column>
+        <mj-text font-size="11px" align="center" color="white" line-height="15px">
+          Automation Network Dresden<br />
+          Manfred-von-Ardenne-Ring 6<br />
+          01099 Dresden<br /><br />
+          <a href="https://www.and-innovation.de" style="color: white;">www.and-innovation.de</a>
+          <br />
+          <a href="mailto:info@and-innovation.de" style="font-weight: bold;color: black; text-decoration: none;">forum@and-innovation.de</a>
+          <br /><br />
+          <a style="font-weight: bold; color: white; text-decoration: none;" href="https://www.and-innovation.de/privacy/data-security.html">Privacy</a>
+        </mj-text>
+        <mj-text font-size="11px" align="center" color="white" line-height="15px">
+          <a href="{profile_url}" style="color:#fff">change subscription</a><br><a href="{unsubscription_url}" style="color:#fff">unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

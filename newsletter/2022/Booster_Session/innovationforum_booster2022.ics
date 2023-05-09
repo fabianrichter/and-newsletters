@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+X-LOTUS-CHARSET:UTF-8
+VERSION:2.0
+PRODID:ZMS-Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=-1SU;BYMONTH=3
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=-1SU;BYMONTH=10
+END:STANDARD
+END:VTIMEZONE
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:ics.terminsysteme.de1642755361
+DTSTAMP:20220121T095601
+CLASS:PUBLIC
+DTSTART;TZID=Europe/Berlin:20220210T100000
+DTEND;TZID=Europe/Berlin:20220210T120000
+LOCATION:Online
+SUMMARY:Innovation Forum for Automation – Booster Session
+DESCRIPTION:Innovation Forum for Automation – Booster Session\n\nWe will take you on a journey through the wide spectrum of the manufacturing automation landscape. From a deep insight of an expert in the semiconductor market, to new perspectives on manufacturing automation in the production of industrial electrolyzers, leading us all the way through to a very intimate look into the story of digitalization of a leading semiconductor manufacturer.\nLet’s boost your automation efforts with helpful inputs and an inspiring exchange.
+END:VEVENT
+END:VCALENDAR

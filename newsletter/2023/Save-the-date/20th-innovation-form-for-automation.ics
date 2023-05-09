@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:20th Innovation Form for Automation\nDate and Time - Jan 26\, 2023 12:00 PM to Jan 27\, 2023 2:00 PM\nVenue - DGUV Congress Centre\, Koenigsbruecker Landstr. 2\, 01109 Dresden\, Germany\n
+DTSTART:20230126T110000Z
+DTEND:20230127T130000Z
+LOCATION:DGUV Congress Centre, Koenigsbruecker Landstr. 2, 01109 Dresden, Germany
+SUMMARY;LANGUAGE=en-us:20th Innovation Form for Automation
+END:VEVENT
+END:VCALENDAR

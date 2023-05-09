@@ -1,0 +1,125 @@
+<mjml>
+  <mj-head>
+    <mj-title>Automation Network Dresden - 16th innovation forum for automation</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500" />
+    <mj-attributes>
+      <mj-all/>
+      <mj-text font-family="typestar_normalregular,sans-serif"/>
+      <mj-section padding-bottom="0px" padding-top="0px" padding-left="40px" padding-right="40px" background-color="white"/>
+      <mj-text line-height="22px" font-size="13px"/>
+      <mj-button border-left="1px solid #0090d4" background-color="white" border-radius="0px" align="left" color="black" font-size="13px" font-family="typestar_normalregular,sans-serif" text-align="left" line-height="22px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#f4f4f4">
+      <mj-section background-color="white" padding-top="20px">
+        <mj-column>
+          <mj-image src="https://mailing.and-innovation.de/wp-content/uploads/2019/10/Logo_17th_IF2020.png" alt="AND Logo" align="right" border="none" width="250px"></mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text font-size="20px" font-weight="bold">
+            Dear {name} {surname},
+          </mj-text>
+          <mj-text>
+            If you’ve been looking forward to the next Innovation Forum as much as we have, here’s some good news: planning for the <a href="https://dresden.and-innovation.de/" style="color: #0090d4; text-decoration: none;"><b>17th edition of this annual automation conference</b></a> <b>at IAG/DGUV Congress Center in Dresden for the 23rd and 24th of January, 2020 is in full swing!</b>
+          </mj-text>
+          <mj-text>
+            The <a href="https://www.and-innovation.de/" style="color: #0090d4; text-decoration: none;"><b>Automation Network Dresden</b></a> team is creating an agenda that will highlight innovative projects and cover new automation trends across high-tech industries such as semiconductor, electronics, PV, automotive and medical technology.
+          </mj-text>
+          <mj-text>
+            We would like to thank <b>Robotron</b>, our main sponsor, for supporting this 2-day forum which provides a platform for more than 300 international executives, managers, engineers and researchers to discuss the latest factory automation technology developments, challenges, and solutions.
+          </mj-text>
+          <mj-image align="center" width="150px" src="https://dresden.and-innovation.de/upload/robotron_logo.png"></mj-image>
+          <mj-text>
+            Updates are coming your way soon with announcements of our presenters and more detailed information on the agenda. For now, mark your calendars for late November when tickets will be available and save these dates:
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column width="60px">
+          <mj-image padding-right="5px" padding-left="5px" href="https://mailing.and-innovation.de/wp-content/uploads/2019/11/17thinnovationforum.ics" src="https://dresden.and-innovation.de/upload/icons/calendar.png"></mj-image>
+        </mj-column>
+        <mj-column width="420px">
+          <mj-text padding-left="15px">
+            <a style="color: #0090d4; font-weight: bold; text-decoration: none;" href="https://mailing.and-innovation.de/wp-content/uploads/2019/11/17thinnovationforum.ics">Save the dates!</a><br/>
+            January 23-24, 2020<br/>
+            IAG/DGUV Congress Center Dresden, Germany
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text>
+            If you have any questions or would like information on <b><a href="https://dresden.and-innovation.de/sponsors/sponsorhip-possibilities.html" style="color: #0090d4; text-decoration: none;">becoming an event sponsor</a></b>, please feel free to contact us.
+            Even better, join Automation Network Dresden members <b>@SEMICON Europa November 12-15</b> and we can talk about it there!
+          </mj-text>
+          <mj-text>
+            Best regards on behalf of the CEOs of the AND member companies,
+          </mj-text>
+          <mj-image align="left" width="110px" src="https://dresden.and-innovation.de/upload/signs/HME_Sign.jpg"></mj-image>
+          <mj-text>
+            Heinz Martin Esser<br/>
+            Speaker of AND & Silicon Saxony e.V.<br/>
+            Managing Director of Fabmatics GmbH
+          </mj-text>
+          <mj-text font-size="10px">
+            The event will be initiated by the Automation Network Dresden (AND) and all its member companies AIS Automation, Fabmatics, SYSTEMA and XENON.
+The four companies have been successfully working together on automation projects in the high-tech industry for more than 20 years.
+Commonly, we are shaping progress towards industry 4.0 and setting standards with regard to current automation trends.
+
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+
+
+
+      <mj-section  padding-top="20px" padding-bottom="0" padding-left="0" padding-right="0">
+        <mj-column>
+          <mj-divider padding="0" border-width="20px" border-color="#ffed00"></mj-divider>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-left="0" padding-right="0" padding-top="0" background-color="#0090d4">
+        <mj-column>
+          <mj-image width="300px" align="center" padding-top="20px" src="https://www.and-innovation.de/templates/claim.png" alt="...we innovate manufacturing."></mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#0090d4">
+        <mj-column width="40px">
+          <mj-image padding="0" href="https://www.facebook.com/AND4innovation/" src="http://www.and-innovation.de/templates/facebook.png" width="30px" height="30px" alt="Facebook"></mj-image>
+        </mj-column>
+        <mj-column width="40px">
+          <mj-image padding="0" href="https://www.linkedin.com/company/automation-network-dresden" src="https://www.and-innovation.de/templates/linkedin.png" width="30px" height="30px" alt="LinkedIn"></mj-image>
+        </mj-column>
+        <mj-column width="40px">
+          <mj-image padding="0" href="https://twitter.com/AND4innovation" src="http://www.and-innovation.de/templates/twitter.png" width="30px" height="30px" alt="Twitter"></mj-image>
+        </mj-column>
+        <mj-column width="40px">
+          <mj-image padding="0" href="https://www.youtube.com/channel/UC0Oddkftafg--QwGjBE9M3Q" src="https://www.and-innovation.de/upload/social/youtube.png" width="30px" height="30px" alt="YouTube"></mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#0090d4">
+        <mj-column>
+          <mj-text font-size="11px" align="center" color="white" line-height="15px">
+            Automation Network Dresden<br/>
+            Manfred-von-Ardenne-Ring 6<br/>
+            01099 Dresden<br/><br/>
+            <a href="https://www.and-innovation.de" style="color: white;">www.and-innovation.de</a>
+            <br/>
+            <a href="mailto:info@and-innovation.de" style="font-weight: bold;color: black; text-decoration: none;">forum@and-innovation.de</a>
+            <br/><br/>
+            <a style="font-weight: bold; color: white; text-decoration: none;" href="https://www.and-innovation.de/privacy/data-security.html">Privacy</a>
+          </mj-text>
+          <mj-text font-size="11px" align="center" color="white" line-height="15px">
+            <a href="{profile_url}" style="color:#fff">change subscription</a><br><a href="{unsubscription_url}" style="color:#fff">unsubscribe</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>

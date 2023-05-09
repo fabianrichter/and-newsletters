@@ -1,0 +1,145 @@
+<mjml>
+  <mj-head>
+    <mj-title>Automation Network Dresden - 16th innovation forum for automation</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500" />
+    <mj-attributes>
+      <mj-all />
+      <mj-text font-family="sans-serif" />
+      <mj-section padding-bottom="0px" padding-top="0px" padding-left="40px" padding-right="40px" background-color="white" />
+      <mj-text line-height="22px" font-size="13px" />
+      <mj-button background-color="#0090d4" border-radius="0" />
+    </mj-attributes>
+    <mj-style>
+        h2 { font-size: 18px; line-height: 26px }
+        
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#f4f4f4">
+    <mj-section background-color="white" padding-top="20px">
+      <mj-column>
+        <mj-image href="https://www.innovation-forum-automation.com/" src="https://www.innovation-forum-automation.com/files/2022/03/logo_19th_if2022.png" alt="AND Logo" align="right" border="none" width="250px"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="20px" font-weight="bold">
+          Dear {name} {surname},
+        </mj-text>
+        <mj-text>
+          You have been waiting for this and we are very happy to finally announce the agenda for <b>19th Annual Innovation Forum for Automation</b> in Dresden on June 30 - July 01, 2022! 
+        </mj-text>
+        <mj-text>
+          This also means <b>Automation Network Dresden (AND)</b> with its member companies (Kontron AIS, Fabmatics, SYSTEMA and XENON) is more than excited to invite you to the first post-pandemic, in person Innovation Forum for Automation! 
+        </mj-text>
+        <mj-text>
+          And what an excellent menu we have prepared for our high-tech manufacturing automation community: International experts from companies such as <b>Leti, X-Fab</b> and <b>Infineon</b>, sharing their insights on latest innovations and challenges on the digital manufacturing and automation landscape. This mix will be spiced up with inspiring contributions from market leaders of emerging industries, such as DAS in waste gas and wastewater treatment.
+        </mj-text>
+        <mj-text>
+          For more information on this two-day conference program please visit <a href="https://www.innovation-forum-automation.com/" style="color: #0090d4; text-decoration: none;"><b>our website</b></a>.
+        </mj-text>
+        <mj-text>
+          You want to be part of this event on June 30 – July 1, 2022? Then you have two options this time: 
+        </mj-text>
+        <mj-text>
+          <ol>
+            <li style="margin-bottom: 10px">
+              Attending the event in person in <b>Dresden</b>, again in the <b>DGUV conference center</b> or ...</li>
+            <li>Attending online, as we offer for the first time a live stream of both conference days. No matter which option you prefer, please register until Friday, June 24.</li>
+          </ol>
+        </mj-text>
+        <mj-text>
+          <h2>Register now</h2>
+          The conference, including the evening event, as well as the live stream, are free of charge when using your promo code ...
+        </mj-text>
+        <mj-text font-size="18px" font-family="monospace" font-weight="bold" align="center">
+          <span style="letter-spacing: 1.4px">INNO22-ALL-IN</span>
+        </mj-text>
+        <mj-text>
+          Please <a href="https://19th-innovation-forum-for-automation.eventbrite.de/" style="color: #0090d4; text-decoration: none;"><b>click here</b></a> for event registration <b>no later than June 24, 2022</b>.
+        </mj-text>
+        <mj-text>
+          <b>You want to benefit even more from this flagship event for the worldwide semiconductor industry? 
+        </b></mj-text>
+        <mj-text>
+          Check our <a href="https://www.innovation-forum-automation.com/conference/sponsors/sponsorship-possibilities/" style="color: #0090d4; text-decoration: none;"><b>sponsoring packages</b></a>. These partners already leverage the Innovation Forum for Automation to present their company:
+        </mj-text>
+        <mj-image src="https://www.innovation-forum-automation.com/files/2022/05/sponsors_email.jpg" alt="Sponsors (Applied Materials, Cimetrix, Siltronic)" />
+        <mj-text>
+          <h2>Information on accommodation, location and transportation</h2>
+          Find all the details on our recommended accommodation, the transportation options you have and useful information on the event locations on <a href="https://www.innovation-forum-automation.com/travel/accommodation" style="color: #0090d4; text-decoration: none;"><b>our website</b></a>.
+        </mj-text>
+        <mj-text>
+          Follow us on <a href="https://www.linkedin.com/company/automation-network-dresden" style="color: #0090d4; text-decoration: none;"><b>LinkedIn</b></a> and <a href="https://twitter.com/AND4innovation" style="color: #0090d4; text-decoration: none;"><b>Twitter</b></a> for continuous updates.
+          If you have any further questions, please feel free to contact us.
+          We look forward to meeting you in Dresden.
+        </mj-text>
+        <mj-text>
+          Best Regards on behalf of the CEOs of the AND member companies,
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text align="center"><a href="https://www.fabmatics.com/" style="color: #0090d4; text-decoration: none;"><b>Fabmatics</b></a></br>Dr. Roland Giesen</br>Dr. Andreas Purath</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text align="center"><a href="https://www.kontron-ais.com/" style="color: #0090d4; text-decoration: none;"><b>Kontron AIS</b></a></br>Dirk Sauer</br>Michael Jacob</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text align="center"><a href="https://www.systema.com/" style="color: #0090d4; text-decoration: none;"><b>SYSTEMA</b></a></br>Manfred Austen</br>Dr. Ulf Martin</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text align="center"><a href="https://www.xenon-automation.com/" style="color: #0090d4; text-decoration: none;"><b>XENON</b></a></br>Tobias Reißmann</br>Dr. Hartmut Freitag</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="10px">
+          The event will be initiated by the Automation Network Dresden (AND) and all its member companies Kontron AIS, Fabmatics, SYSTEMA and XENON.
+          The four companies have been successfully working together on automation projects in the high-tech industry for more than 20 years.
+          Commonly, we are shaping progress towards industry 4.0 and setting standards with regard to current automation trends.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+
+    <mj-section padding-top="20px" padding-bottom="0" padding-left="0" padding-right="0">
+      <mj-column>
+        <mj-divider padding="0" border-width="20px" border-color="#ffed00"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0090d4" padding-top="20px">
+      <mj-column width="40px">
+        <mj-image padding="0" href="https://www.linkedin.com/company/automation-network-dresden" src="https://www.innovation-forum-automation.com/files/2022/05/linkedin.png" width="30px" height="30px" alt="LinkedIn"></mj-image>
+      </mj-column>
+      <mj-column width="40px">
+        <mj-image padding="0" href="https://twitter.com/AND4innovation" src="https://www.innovation-forum-automation.com/files/2022/05/twitter.png" width="30px" height="30px" alt="Twitter"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0090d4">
+      <mj-column>
+        <mj-text font-size="11px" align="center" color="white" line-height="15px">
+          Automation Network Dresden<br />
+          Manfred-von-Ardenne-Ring 6<br />
+          01099 Dresden<br /><br />
+          <a href="https://www.innovation-forum-automation.com/" style="color: white;">www.innovation-forum-automation.com</a>
+          <br />
+          <a href="mailto:info@innovation-forum-automation.com" style="font-weight: bold;color: black; text-decoration: none;">info@innovation-forum-automation.com</a>
+          <br /><br />
+          <a style="font-weight: bold; color: white; text-decoration: none;" href="https://www.innovation-forum-automation.com/privacy/">Privacy</a>
+        </mj-text>
+        <mj-text font-size="11px" align="center" color="white" line-height="15px">
+          <a href="{profile_url}" style="color:#fff">change subscription</a><br><a href="{unsubscription_url}" style="color:#fff">unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
